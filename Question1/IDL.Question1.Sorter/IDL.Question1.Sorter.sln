@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDL.Question1.Sorter", "IDL.Question1.Sorter.csproj", "{EC14AEAB-FE19-4AA2-B682-51B919A960F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDL.Question1.Sorter.Test", "IDL.Question1.Sorter.Test\IDL.Question1.Sorter.Test.csproj", "{C6DE8317-FC35-44C3-B9E5-B66B0AB14431}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDL.Question1.Sorter.Test", "..\IDL.Question1.Sorter.Test\IDL.Question1.Sorter.Test.csproj", "{C6DE8317-FC35-44C3-B9E5-B66B0AB14431}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IDL.Question1.Sorter.csproj">
+    <ProjectReference Include="..\IDL.Question1.Sorter\IDL.Question1.Sorter.csproj">
       <Project>{ec14aeab-fe19-4aa2-b682-51b919a960f8}</Project>
       <Name>IDL.Question1.Sorter</Name>
     </ProjectReference>
