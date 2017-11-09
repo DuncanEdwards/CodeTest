@@ -52,6 +52,7 @@
     <Compile Include="Comparers\StringComparer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SorterTests.cs" />
+    <Compile Include="StackTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

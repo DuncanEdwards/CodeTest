@@ -5,7 +5,7 @@ using System.ComponentModel;
 namespace IDL.Question1and2.Sorter.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class SorterTests
     {
 
         private List<string> GetStringDataList()
