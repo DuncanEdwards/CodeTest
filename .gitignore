@@ -3,3 +3,9 @@
 ################################################################################
 
 /Question1/IDL.Question1.Sorter/.vs/IDL.Question1.Sorter/v15/Server/sqlite3
+*.suo
+/Question1/IDL.Question1.Sorter/IDL.Question1.Sorter.Test/bin/Debug
+/Question1/IDL.Question1.Sorter/IDL.Question1.Sorter.Test/obj/Debug
+/Question1/IDL.Question1.Sorter/obj/Debug
+/Question1/IDL.Question1.Sorter/packages
+/Question1/IDL.Question1.Sorter/bin/Debug
