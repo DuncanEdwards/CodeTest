@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace IDL.Question1.Sorter.Test
+namespace IDL.Question1and2.Sorter.Test
 {
     [TestClass]
     public class UnitTest1

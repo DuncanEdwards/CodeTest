@@ -2,12 +2,12 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Question1/IDL.Question1.Sorter/.vs/IDL.Question1.Sorter/v15/Server/sqlite3
 *.suo
-/Question1/IDL.Question1.Sorter/IDL.Question1.Sorter.Test/bin/Debug
-/Question1/IDL.Question1.Sorter/IDL.Question1.Sorter.Test/obj/Debug
-/Question1/IDL.Question1.Sorter/obj/Debug
-/Question1/IDL.Question1.Sorter/packages
-/Question1/IDL.Question1.Sorter/bin/Debug
-/Question1/IDL.Question1.Sorter.Test/bin/Debug
-/Question1/IDL.Question1.Sorter.Test/obj/Debug
+/Question1and2/.vs/IDL.Question1and2.Sorter/v15/Server/sqlite3
+/Question1and2/IDL.Question1and2.Sorter/.vs/IDL.Question1.Sorter/v15/Server/sqlite3
+/Question1and2/IDL.Question1and2.Sorter/obj/Debug
+/Question1and2/IDL.Question1and2.Sorter/bin/Debug
+/Question1and2/IDL.Question1and2.Sorter/packages
+/Question1and2/IDL.Question1and2.Sorter.Test/bin/Debug
+/Question1and2/IDL.Question1and2.Sorter.Test/obj/Debug
+/Question1and2/packages

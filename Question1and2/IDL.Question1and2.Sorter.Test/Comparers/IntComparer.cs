@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace IDL.Question1.Sorter.Test.Comparers
+namespace IDL.Question1and2.Sorter.Test.Comparers
 {
     public class IntComparer : IComparer<int>
     {

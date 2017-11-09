@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace IDL.Question1.Sorter
+namespace IDL.Question1and2.Sorter
 {
 
     public class Sorter
