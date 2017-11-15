@@ -19,6 +19,7 @@ namespace IDL.Question1and2.Sorter.Test
                 "Cooper",
                 "Andy",
                 "Duncan",
+                "Aardvaark"
             };
         }
 
@@ -82,14 +83,15 @@ namespace IDL.Question1and2.Sorter.Test
                 GetStringDataList(), 
                 new Comparers.StringComparer(ListSortDirection.Ascending));
 
-            Assert.AreEqual(7, results.Count);
-            Assert.AreEqual("Andrea", results[0]);
-            Assert.AreEqual("Andrew", results[1]);
-            Assert.AreEqual("Andy", results[2]);
-            Assert.AreEqual("Cooper", results[3]);
-            Assert.AreEqual("Duncan", results[4]);
+            Assert.AreEqual(8, results.Count);
+            Assert.AreEqual("Aardvaark", results[0]);
+            Assert.AreEqual("Andrea", results[1]);
+            Assert.AreEqual("Andrew", results[2]);
+            Assert.AreEqual("Andy", results[3]);
+            Assert.AreEqual("Cooper", results[4]);
             Assert.AreEqual("Duncan", results[5]);
-            Assert.AreEqual("Samuel", results[6]);
+            Assert.AreEqual("Duncan", results[6]);
+            Assert.AreEqual("Samuel", results[7]);
 
         }
 
@@ -101,7 +103,8 @@ namespace IDL.Question1and2.Sorter.Test
                 GetStringDataList(),
                 new Comparers.StringComparer(ListSortDirection.Descending));
 
-            Assert.AreEqual(7, results.Count);
+            Assert.AreEqual(8, results.Count);
+            Assert.AreEqual("Aardvaark", results[7]);
             Assert.AreEqual("Andrea", results[6]);
             Assert.AreEqual("Andrew", results[5]);
             Assert.AreEqual("Andy", results[4]);

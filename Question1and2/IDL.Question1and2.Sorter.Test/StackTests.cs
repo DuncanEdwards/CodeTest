@@ -75,7 +75,8 @@ namespace IDL.Question1and2.Sorter.Test
             stack.Push("edwards");
 
             Assert.AreEqual("edwards", stack.Pop());
-            Assert.AreEqual("duncan", stack.Peek());
+            Assert.AreEqual("duncan", stack.Pop());
+            Assert.AreEqual(null, stack.Pop());
 
         }
 
